@@ -8,9 +8,10 @@ Parte de la formacion de Alura Latam para Oracle.
 
 # Estructura del proyecto:
 
--> TelecomX_2_Latam_Josue_Marquez.ipynb : notebook colab
--> README.md : este archivo
--> datos_tratados.csv : archivo con los datos tratados de la parte 1
+- TelecomX_2_Latam_Josue_Marquez.ipynb : notebook colab
+- README.md : este archivo
+- datos_tratados.csv : archivo con los datos tratados de la parte 1
+- /imges/ : imagenes de los graficos
 
 # Tareas:
 
